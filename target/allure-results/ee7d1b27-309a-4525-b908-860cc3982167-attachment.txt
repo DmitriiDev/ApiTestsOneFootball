@@ -1,0 +1,357 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Allow: GET,POST,PUT,PATCH,DELETE
+Vary: Accept, Accept-Encoding
+Content-Type: application/json; charset=utf-8
+ETag: W/"25be-LRKbaIWz+D2MKzTd7004Bxnq7/M"
+Content-Encoding: gzip
+Date: Sun, 04 Oct 2020 13:23:22 GMT
+Connection: keep-alive
+Transfer-Encoding: chunked
+
+{
+    "total": 74,
+    "limit": 10,
+    "skip": 0,
+    "data": [
+        {
+            "id": 1339042,
+            "name": "Rock Band Metal Track Pack - PRE-OWNED - PlayStation 2",
+            "type": "Game",
+            "price": 0.99,
+            "upc": "799007761471",
+            "shipping": 0,
+            "description": "Enjoy head-banging fun to an incredible metal soundtrack",
+            "manufacturer": "MTV Games",
+            "model": null,
+            "url": "http://www.bestbuy.com/site/rock-band-metal-track-pack-pre-owned-playstation-2/1339042.p?id=1218251725855&skuId=1339042&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1339/1339042_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1478398,
+            "name": "Dragonball: Evolution - PRE-OWNED - PSP",
+            "type": "Game",
+            "price": 0.99,
+            "upc": "799007789161",
+            "shipping": 0,
+            "description": "Fight your way through the world of the feature film",
+            "manufacturer": "Namco Bandai Games",
+            "model": null,
+            "url": "http://www.bestbuy.com/site/dragonball-evolution-pre-owned-psp/1478398.p?id=1218262461686&skuId=1478398&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1478/1478398_sa.jpg",
+            "createdAt": "2016-11-17T18:01:22.276Z",
+            "updatedAt": "2016-11-17T18:01:22.276Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1525809,
+            "name": "Dynex™ - Case for Apple® iPhone® 6 - Green/White",
+            "type": "HardGood",
+            "price": 0.99,
+            "upc": "600603181146",
+            "shipping": 0,
+            "description": "Only at Best Buy\nCompatible with Apple iPhone 6; TPU material; camera cut-out",
+            "manufacturer": "Dynex™",
+            "model": "DX-MA642GH",
+            "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-6-green-white/1525809.p?id=1219500991300&skuId=1525809&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1525/1525809_sa.jpg",
+            "createdAt": "2016-11-17T18:01:44.806Z",
+            "updatedAt": "2016-11-17T18:01:44.806Z",
+            "categories": [
+                {
+                    "id": "abcat0800000",
+                    "name": "Cell Phones",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0811002",
+                    "name": "Cell Phone Accessories",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat191200050015",
+                    "name": "iPhone Accessories",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat214700050000",
+                    "name": "iPhone Cases & Clips",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1526043,
+            "name": "Dynex™ - Case for Apple® iPhone® 6 Plus - Green/White",
+            "type": "HardGood",
+            "price": 0.99,
+            "upc": "600603181221",
+            "shipping": 0,
+            "description": "Only at Best Buy\nCompatible with Apple iPhone 6 Plus; TPU material; camera cut-out",
+            "manufacturer": "Dynex™",
+            "model": "DX-MA652GH",
+            "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-6-plus-green-white/1526043.p?id=1219500999151&skuId=1526043&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1526/1526043_sa.jpg",
+            "createdAt": "2016-11-17T18:01:44.806Z",
+            "updatedAt": "2016-11-17T18:01:44.806Z",
+            "categories": [
+                {
+                    "id": "abcat0800000",
+                    "name": "Cell Phones",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0811002",
+                    "name": "Cell Phone Accessories",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat191200050015",
+                    "name": "iPhone Accessories",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat214700050000",
+                    "name": "iPhone Cases & Clips",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1565309,
+            "name": "High School Musical 3: Senior Year DANCE - PRE-OWNED - PlayStation 2",
+            "type": "Game",
+            "price": 0.99,
+            "upc": "799007783404",
+            "shipping": 0,
+            "description": "Show you can dance like a true Wildcat",
+            "manufacturer": "Disney Interactive Studios",
+            "model": null,
+            "url": "http://www.bestbuy.com/site/high-school-musical-3-senior-year-dance-pre-owned-playstation-2/1565309.p?id=1218269696726&skuId=1565309&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1565/1565309_sa.jpg",
+            "createdAt": "2016-11-17T18:01:55.562Z",
+            "updatedAt": "2016-11-17T18:01:55.562Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1577112,
+            "name": "Hannah Montana: Spotlight World Tour - PRE-OWNED - PlayStation 2",
+            "type": "Game",
+            "price": 0.99,
+            "upc": "799007784852",
+            "shipping": 0,
+            "description": "Tour the world as the one-and-only Hannah Montana",
+            "manufacturer": "Disney Interactive Studios",
+            "model": null,
+            "url": "http://www.bestbuy.com/site/hannah-montana-spotlight-world-tour-pre-owned-playstation-2/1577112.p?id=1218270218106&skuId=1577112&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1577/1577112_sa.jpg",
+            "createdAt": "2016-11-17T18:01:55.562Z",
+            "updatedAt": "2016-11-17T18:01:55.562Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1577255,
+            "name": "Rock Band Unplugged — PRE-OWNED - PSP",
+            "type": "Game",
+            "price": 0.99,
+            "upc": "799007784975",
+            "shipping": 0,
+            "description": "Take your rock band on the road",
+            "manufacturer": "EA",
+            "model": "1463319247",
+            "url": "http://www.bestbuy.com/site/rock-band-unplugged-pre-owned-psp/1577255.p?id=1218270217212&skuId=1577255&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1577/1577255.jpg",
+            "createdAt": "2016-11-17T18:01:55.562Z",
+            "updatedAt": "2016-11-17T18:01:55.562Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 2012015,
+            "name": "Dynex™ - Soft Shell Case for Samsung Galaxy S 5 Cell Phones - Yellow/Black/Purple/Green/Red/Orange",
+            "type": "HardGood",
+            "price": 0.99,
+            "upc": "600603181696",
+            "shipping": 0,
+            "description": "Only at Best Buy\nCompatible with Samsung Galaxy S 5 cell phones; TPU material; camera cutout",
+            "manufacturer": "Dynex™",
+            "model": "DX-MGS53FW",
+            "url": "http://www.bestbuy.com/site/dynex-soft-shell-case-for-samsung-galaxy-s-5-cell-phones-yellow-black-purple-green-red-orange/2012015.p?id=1219528996417&skuId=2012015&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/2012/2012015_sa.jpg",
+            "createdAt": "2016-11-17T18:01:44.806Z",
+            "updatedAt": "2016-11-17T18:01:44.806Z",
+            "categories": [
+                {
+                    "id": "abcat0800000",
+                    "name": "Cell Phones",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0811002",
+                    "name": "Cell Phone Accessories",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0811006",
+                    "name": "Cell Phone Cases & Clips",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 2012042,
+            "name": "Dynex™ - Case for Apple® iPhone® SE, 5s and 5 - Green/White",
+            "type": "HardGood",
+            "price": 0.99,
+            "upc": "600603181634",
+            "shipping": 0,
+            "description": "Only at Best Buy\nCompatible with Apple iPhone SE, 5s and 5; TPU material with water print technology; camera cut-out; diamond water pattern",
+            "manufacturer": "Dynex™",
+            "model": "DX-MA5S3DW",
+            "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-se-5s-and-5-green-white/2012042.p?id=1219528994696&skuId=2012042&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/2012/2012042_sa.jpg",
+            "createdAt": "2016-11-17T18:01:44.806Z",
+            "updatedAt": "2016-11-17T18:01:44.806Z",
+            "categories": [
+                {
+                    "id": "abcat0800000",
+                    "name": "Cell Phones",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0811002",
+                    "name": "Cell Phone Accessories",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat191200050015",
+                    "name": "iPhone Accessories",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat214700050000",
+                    "name": "iPhone Cases & Clips",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 2012051,
+            "name": "Dynex™ - Soft Shell Case for Samsung Galaxy S 5 Cell Phones - Green/White",
+            "type": "HardGood",
+            "price": 0.99,
+            "upc": "600603181719",
+            "shipping": 0,
+            "description": "Only at Best Buy\nCompatible with Samsung Galaxy S 5 cell phones; TPU material; camera cutout",
+            "manufacturer": "Dynex™",
+            "model": "DX-MGS53DW",
+            "url": "http://www.bestbuy.com/site/dynex-soft-shell-case-for-samsung-galaxy-s-5-cell-phones-green-white/2012051.p?id=1219528994708&skuId=2012051&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/2012/2012051_sa.jpg",
+            "createdAt": "2016-11-17T18:01:44.806Z",
+            "updatedAt": "2016-11-17T18:01:44.806Z",
+            "categories": [
+                {
+                    "id": "abcat0800000",
+                    "name": "Cell Phones",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0811002",
+                    "name": "Cell Phone Accessories",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0811006",
+                    "name": "Cell Phone Cases & Clips",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Allow: GET,POST,PUT,PATCH,DELETE
+Vary: Accept, Accept-Encoding
+Content-Type: application/json; charset=utf-8
+Content-Length: 110
+ETag: W/"6e-qcsnzA1zP6RLBqJP/HmNBnjIMGI"
+Date: Sun, 04 Oct 2020 13:23:23 GMT
+Connection: keep-alive
+
+{
+    "id": 10,
+    "name": "Windows Store",
+    "createdAt": "2016-11-17T17:56:35.881Z",
+    "updatedAt": "2016-11-17T17:56:35.881Z"
+}

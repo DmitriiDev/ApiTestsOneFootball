@@ -1,0 +1,399 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Allow: GET,POST,PUT,PATCH,DELETE
+Vary: Accept, Accept-Encoding
+Content-Type: application/json; charset=utf-8
+ETag: W/"2ea4-E25tzPpCXtqRUAZP6h7cHOZ/4vA"
+Content-Encoding: gzip
+Date: Sun, 04 Oct 2020 13:23:23 GMT
+Connection: keep-alive
+Transfer-Encoding: chunked
+
+{
+    "total": 287,
+    "limit": 10,
+    "skip": 0,
+    "data": [
+        {
+            "id": 1150152,
+            "name": "Samsung - 24\" Built-In Dishwasher with Stainless Steel Tub - Stainless Steel",
+            "type": "HardGood",
+            "price": 699.99,
+            "upc": "887276988887",
+            "shipping": 67.49,
+            "description": "Accommodates up to 15 place settings; 4 wash cycles; 48 dBA operation; 2 wash options; hard-food disposer; 6-layer door; noise insulation",
+            "manufacturer": "Samsung",
+            "model": "DW80F600UTS",
+            "url": "http://www.bestbuy.com/site/samsung-24-built-in-dishwasher-with-stainless-steel-tub-stainless-steel/1150152.p?id=1219046321163&skuId=1150152&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/pac/products/1313/1313480992/1313480992_sa.jpg",
+            "createdAt": "2016-11-17T18:00:01.751Z",
+            "updatedAt": "2016-11-17T18:00:01.751Z",
+            "categories": [
+                {
+                    "id": "abcat0900000",
+                    "name": "Appliances",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0905000",
+                    "name": "Dishwashers",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0905001",
+                    "name": "Built-In Dishwashers",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 1443547,
+            "name": "Frigidaire - 4.8 Cu. Ft. Freestanding Electric Range - Black",
+            "type": "HardGood",
+            "price": 549.99,
+            "upc": "012505502286",
+            "shipping": 79.99,
+            "description": "Ready-Select oven controls; two 1250-watt elements; one 2,500-watt and one 6-9\" expandable element; Vari-Broil system; Even Baking technology; storage drawer",
+            "manufacturer": "Frigidaire",
+            "model": "FFEF3013LB",
+            "url": "http://www.bestbuy.com/site/frigidaire-4-8-cu-ft-freestanding-electric-range-black/1443547.p?id=1218259297521&skuId=1443547&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1443/1443547_sa.jpg",
+            "createdAt": "2016-11-17T18:01:06.648Z",
+            "updatedAt": "2016-11-17T18:01:06.648Z",
+            "categories": [
+                {
+                    "id": "abcat0900000",
+                    "name": "Appliances",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0904000",
+                    "name": "Ranges, Cooktops & Ovens",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0904003",
+                    "name": "Ranges",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat196400050016",
+                    "name": "Electric Ranges",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1539013,
+            "name": "LG - 7.3 Cu. Ft. 14-Cycle Electric Dryer with Steam - White",
+            "type": "HardGood",
+            "price": 999.99,
+            "upc": "048231013543",
+            "shipping": 77.99,
+            "description": "Dial-A-Cycle and touch-button controls; 14 cycles; 5 temperature levels; NeveRust stainless-steel drum; LoDecibel noise-reduction technology",
+            "manufacturer": "LG",
+            "model": "DLEX5680W",
+            "url": "http://www.bestbuy.com/site/lg-7-3-cu-ft-14-cycle-electric-dryer-with-steam-white/1539013.p?id=1219054923732&skuId=1539013&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1539/1539013_sa.jpg",
+            "createdAt": "2016-11-17T18:01:44.806Z",
+            "updatedAt": "2016-11-17T18:01:44.806Z",
+            "categories": [
+                {
+                    "id": "abcat0900000",
+                    "name": "Appliances",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0910000",
+                    "name": "Washers & Dryers",
+                    "createdAt": "2016-11-17T17:57:04.643Z",
+                    "updatedAt": "2016-11-17T17:57:04.643Z"
+                },
+                {
+                    "id": "abcat0910004",
+                    "name": "Dryers",
+                    "createdAt": "2016-11-17T17:57:04.643Z",
+                    "updatedAt": "2016-11-17T17:57:04.643Z"
+                },
+                {
+                    "id": "pcmcat232900050031",
+                    "name": "Electric Dryers",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1540212,
+            "name": "LG - 5.0 Cu. Ft. 14-Cycle High-Efficiency Steam Top-Loading Washer - Graphite Steel",
+            "type": "HardGood",
+            "price": 1199.99,
+            "upc": "048231013505",
+            "shipping": 91.49,
+            "description": "Rear-panel intelligent electronic controls; 14 cycles; TurboWash technology; direct-drive motor; 5 temperature settings; LoDecibel noise-reduction technology",
+            "manufacturer": "LG",
+            "model": "WT5680HVA",
+            "url": "http://www.bestbuy.com/site/lg-5-0-cu-ft-14-cycle-high-efficiency-steam-top-loading-washer-graphite-steel/1540212.p?id=1219054918696&skuId=1540212&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1540/1540212_sa.jpg",
+            "createdAt": "2016-11-17T18:01:44.806Z",
+            "updatedAt": "2016-11-17T18:01:44.806Z",
+            "categories": [
+                {
+                    "id": "abcat0900000",
+                    "name": "Appliances",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0910000",
+                    "name": "Washers & Dryers",
+                    "createdAt": "2016-11-17T17:57:04.643Z",
+                    "updatedAt": "2016-11-17T17:57:04.643Z"
+                },
+                {
+                    "id": "abcat0910001",
+                    "name": "Washing Machines",
+                    "createdAt": "2016-11-17T17:57:04.643Z",
+                    "updatedAt": "2016-11-17T17:57:04.643Z"
+                },
+                {
+                    "id": "abcat0910003",
+                    "name": "Top-Loading Washers",
+                    "createdAt": "2016-11-17T17:57:04.643Z",
+                    "updatedAt": "2016-11-17T17:57:04.643Z"
+                }
+            ]
+        },
+        {
+            "id": 1558487,
+            "name": "Frigidaire - Gallery 30\" Self-Cleaning Freestanding Electric Convection Induction Range - Stainless-Steel",
+            "type": "HardGood",
+            "price": 1699.99,
+            "upc": "012505508837",
+            "shipping": 114.99,
+            "description": "Express-Select oven control and timing system; 5 smoothtop elements; center keep-warm element; simmer element; 100-3800W; convection bake, broil and roast; temperature probe",
+            "manufacturer": "Frigidaire",
+            "model": "FGIF3061NF",
+            "url": "http://www.bestbuy.com/site/frigidaire-gallery-30-self-cleaning-freestanding-electric-convection-induction-range-stainless-steel/1558487.p?id=1219055278132&skuId=1558487&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1558/1558487_sa.jpg",
+            "createdAt": "2016-11-17T18:01:44.806Z",
+            "updatedAt": "2016-11-17T18:01:44.806Z",
+            "categories": [
+                {
+                    "id": "abcat0900000",
+                    "name": "Appliances",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0904000",
+                    "name": "Ranges, Cooktops & Ovens",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0904003",
+                    "name": "Ranges",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat196400050016",
+                    "name": "Electric Ranges",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1609849,
+            "name": "Whirlpool - 24.8 Cu. Ft. French Door Refrigerator - Stainless Steel",
+            "type": "HardGood",
+            "price": 1699.99,
+            "upc": "883049288956",
+            "shipping": 172.49,
+            "description": "ENERGY STAR Certified\nElectric controls; Accu-Chill temperature management; FreshFlow produce preserver; adjustable gallon-size door bins; spill-proof glass shelves; temperature-controlled full-width pantry; icemaker",
+            "manufacturer": "Whirlpool",
+            "model": "WRF535SMBM",
+            "url": "http://www.bestbuy.com/site/whirlpool-24-8-cu-ft-french-door-refrigerator-stainless-steel/1609849.p?id=1219056779621&skuId=1609849&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1609/1609849_sa.jpg",
+            "createdAt": "2016-11-17T18:02:21.601Z",
+            "updatedAt": "2016-11-17T18:02:21.601Z",
+            "categories": [
+                {
+                    "id": "abcat0900000",
+                    "name": "Appliances",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0901000",
+                    "name": "Refrigerators",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat367400050001",
+                    "name": "All Refrigerators",
+                    "createdAt": "2016-11-17T17:57:04.643Z",
+                    "updatedAt": "2016-11-17T17:57:04.643Z"
+                }
+            ]
+        },
+        {
+            "id": 1614013,
+            "name": "Amana - 25.4 Cu. Ft. Side-by-Side Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
+            "type": "HardGood",
+            "price": 1099.99,
+            "upc": "883049279893",
+            "shipping": 132.49,
+            "description": "Temp Assure freshness controls; Spillsaver glass shelves; deli drawer; dairy center; adjustable door bins; gallon-size door storage",
+            "manufacturer": "Amana",
+            "model": "ASD2575BRS",
+            "url": "http://www.bestbuy.com/site/amana-25-4-cu-ft-side-by-side-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/1614013.p?id=1219057245144&skuId=1614013&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1614/1614013_sa.jpg",
+            "createdAt": "2016-11-17T18:02:21.601Z",
+            "updatedAt": "2016-11-17T18:02:21.601Z",
+            "categories": [
+                {
+                    "id": "abcat0900000",
+                    "name": "Appliances",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0901000",
+                    "name": "Refrigerators",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat367400050001",
+                    "name": "All Refrigerators",
+                    "createdAt": "2016-11-17T17:57:04.643Z",
+                    "updatedAt": "2016-11-17T17:57:04.643Z"
+                }
+            ]
+        },
+        {
+            "id": 1618091,
+            "name": "Whirlpool - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water - Stainless-Steel",
+            "type": "HardGood",
+            "price": 2199.99,
+            "upc": "883049253619",
+            "shipping": 180.99,
+            "description": "Tap Touch electronic dispenser controls; 4 MicroEdge shelves; temperature-controlled pantry; triple crisper system; 3 door bins; In-Door-Ice; freezer bin and pizza pocket",
+            "manufacturer": "Whirlpool",
+            "model": "WRF736SDAM",
+            "url": "http://www.bestbuy.com/site/whirlpool-24-7-cu-ft-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/1618091.p?id=1219057251051&skuId=1618091&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1618/1618091_sa.jpg",
+            "createdAt": "2016-11-17T18:02:21.601Z",
+            "updatedAt": "2016-11-17T18:02:21.601Z",
+            "categories": [
+                {
+                    "id": "abcat0900000",
+                    "name": "Appliances",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0901000",
+                    "name": "Refrigerators",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat367400050001",
+                    "name": "All Refrigerators",
+                    "createdAt": "2016-11-17T17:57:04.643Z",
+                    "updatedAt": "2016-11-17T17:57:04.643Z"
+                }
+            ]
+        },
+        {
+            "id": 1664007,
+            "name": "Samsung - 24.7 Cu. Ft. Food ShowCase Side-by-Side Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
+            "type": "HardGood",
+            "price": 2099.99,
+            "upc": "887276073446",
+            "shipping": 89.99,
+            "description": "ENERGY STAR Certified\nDigital controls; Twin Cooling temperature management system; 4 spill-proof glass shelves; 3 crisper drawers; automatic defrost; 4 glass freezer shelves; tower LED lighting",
+            "manufacturer": "Samsung",
+            "model": "RH25H5611SR",
+            "url": "http://www.bestbuy.com/site/samsung-24-7-cu-ft-food-showcase-side-by-side-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/1664007.p?id=1219507982963&skuId=1664007&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/pac/products/1313/1313533230/1313533230_sa.jpg",
+            "createdAt": "2016-11-17T18:02:21.601Z",
+            "updatedAt": "2016-11-17T18:02:21.601Z",
+            "categories": [
+                {
+                    "id": "abcat0900000",
+                    "name": "Appliances",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0901000",
+                    "name": "Refrigerators",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat367400050001",
+                    "name": "All Refrigerators",
+                    "createdAt": "2016-11-17T17:57:04.643Z",
+                    "updatedAt": "2016-11-17T17:57:04.643Z"
+                }
+            ]
+        },
+        {
+            "id": 1664487,
+            "name": "Whirlpool - 30\" Self-Cleaning Freestanding Double Oven Electric Range - Stainless Steel",
+            "type": "HardGood",
+            "price": 1299.99,
+            "upc": "883049287676",
+            "shipping": 117.49,
+            "description": "Dual 9\"/6\", 6\" and 10\" radiant elements; 6\" melt element; 6-3/4\" warm-zone element; 2000W bake element; AccuBake system; Rapid Preheat",
+            "manufacturer": "Whirlpool",
+            "model": "WGE555S0BS",
+            "url": "http://www.bestbuy.com/site/whirlpool-30-self-cleaning-freestanding-double-oven-electric-range-stainless-steel/1664487.p?id=1219058902918&skuId=1664487&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1664/1664487_sa.jpg",
+            "createdAt": "2016-11-17T18:02:21.601Z",
+            "updatedAt": "2016-11-17T18:02:21.601Z",
+            "categories": [
+                {
+                    "id": "abcat0900000",
+                    "name": "Appliances",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0904000",
+                    "name": "Ranges, Cooktops & Ovens",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0904003",
+                    "name": "Ranges",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat196400050016",
+                    "name": "Electric Ranges",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,417 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Allow: GET,POST,PUT,PATCH,DELETE
+Vary: Accept, Accept-Encoding
+Content-Type: application/json; charset=utf-8
+ETag: W/"2aeb-nIMBzhuvts/yLkG98ecsi0ucpaQ"
+Content-Encoding: gzip
+Date: Sun, 04 Oct 2020 13:23:23 GMT
+Connection: keep-alive
+Transfer-Encoding: chunked
+
+{
+    "total": 4450,
+    "limit": 10,
+    "skip": 0,
+    "data": [
+        {
+            "id": 43900,
+            "name": "Duracell - AAA Batteries (4-Pack)",
+            "type": "HardGood",
+            "price": 5.49,
+            "upc": "041333424019",
+            "shipping": 0,
+            "description": "Compatible with select electronic devices; AAA size; DURALOCK Power Preserve technology; 4-pack",
+            "manufacturer": "Duracell",
+            "model": "MN2400B4Z",
+            "url": "http://www.bestbuy.com/site/duracell-aaa-batteries-4-pack/43900.p?id=1051384074145&skuId=43900&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0208002",
+                    "name": "Alkaline Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat248700050021",
+                    "name": "Housewares",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat303600050001",
+                    "name": "Household Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat312300050015",
+                    "name": "Connected Home & Housewares",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 48530,
+            "name": "Duracell - AA 1.5V CopperTop Batteries (4-Pack)",
+            "type": "HardGood",
+            "price": 5.49,
+            "upc": "041333415017",
+            "shipping": 0,
+            "description": "Long-lasting energy; DURALOCK Power Preserve technology; for toys, clocks, radios, games, remotes, PDAs and more",
+            "manufacturer": "Duracell",
+            "model": "MN1500B4Z",
+            "url": "http://www.bestbuy.com/site/duracell-aa-1-5v-coppertop-batteries-4-pack/48530.p?id=1099385268988&skuId=48530&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/4853/48530_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0208002",
+                    "name": "Alkaline Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat248700050021",
+                    "name": "Housewares",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat303600050001",
+                    "name": "Household Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat312300050015",
+                    "name": "Connected Home & Housewares",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 127687,
+            "name": "Duracell - AA Batteries (8-Pack)",
+            "type": "HardGood",
+            "price": 7.49,
+            "upc": "041333825014",
+            "shipping": 0,
+            "description": "Compatible with select electronic devices; AA size; DURALOCK Power Preserve technology; 8-pack",
+            "manufacturer": "Duracell",
+            "model": "MN1500B8Z",
+            "url": "http://www.bestbuy.com/site/duracell-aa-batteries-8-pack/127687.p?id=1051384045676&skuId=127687&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1276/127687_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0208002",
+                    "name": "Alkaline Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat248700050021",
+                    "name": "Housewares",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat303600050001",
+                    "name": "Household Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat312300050015",
+                    "name": "Connected Home & Housewares",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 150115,
+            "name": "Energizer - MAX Batteries AA (4-Pack)",
+            "type": "HardGood",
+            "price": 4.99,
+            "upc": "039800011329",
+            "shipping": 0,
+            "description": "4-pack AA alkaline batteries; battery tester included",
+            "manufacturer": "Energizer",
+            "model": "E91BP-4",
+            "url": "http://www.bestbuy.com/site/energizer-max-batteries-aa-4-pack/150115.p?id=1051384046217&skuId=150115&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1501/150115_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0208002",
+                    "name": "Alkaline Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat248700050021",
+                    "name": "Housewares",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat303600050001",
+                    "name": "Household Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat312300050015",
+                    "name": "Connected Home & Housewares",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 185230,
+            "name": "Duracell - C Batteries (4-Pack)",
+            "type": "HardGood",
+            "price": 8.99,
+            "upc": "041333440019",
+            "shipping": 0,
+            "description": "Compatible with select electronic devices; C size; DURALOCK Power Preserve technology; 4-pack",
+            "manufacturer": "Duracell",
+            "model": "MN1400R4Z",
+            "url": "http://www.bestbuy.com/site/duracell-c-batteries-4-pack/185230.p?id=1051384046486&skuId=185230&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1852/185230_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0208002",
+                    "name": "Alkaline Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat248700050021",
+                    "name": "Housewares",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat303600050001",
+                    "name": "Household Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat312300050015",
+                    "name": "Connected Home & Housewares",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 185267,
+            "name": "Duracell - D Batteries (4-Pack)",
+            "type": "HardGood",
+            "price": 9.99,
+            "upc": "041333430010",
+            "shipping": 0,
+            "description": "Compatible with select electronic devices; D size; DURALOCK Power Preserve technology; 4-pack",
+            "manufacturer": "Duracell",
+            "model": "MN1300R4Z",
+            "url": "http://www.bestbuy.com/site/duracell-d-batteries-4-pack/185267.p?id=1051384046551&skuId=185267&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1852/185267_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0208002",
+                    "name": "Alkaline Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat248700050021",
+                    "name": "Housewares",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat303600050001",
+                    "name": "Household Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat312300050015",
+                    "name": "Connected Home & Housewares",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 312290,
+            "name": "Duracell - 9V Batteries (2-Pack)",
+            "type": "HardGood",
+            "price": 7.99,
+            "upc": "041333216010",
+            "shipping": 0,
+            "description": "Compatible with select electronic devices; alkaline chemistry; 9V size; DURALOCK Power Preserve technology; 2-pack",
+            "manufacturer": "Duracell",
+            "model": "MN1604B2Z",
+            "url": "http://www.bestbuy.com/site/duracell-9v-batteries-2-pack/312290.p?id=1051384050321&skuId=312290&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/3122/312290_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0208002",
+                    "name": "Alkaline Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat248700050021",
+                    "name": "Housewares",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat303600050001",
+                    "name": "Household Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat312300050015",
+                    "name": "Connected Home & Housewares",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 333179,
+            "name": "Energizer - N Cell E90 Batteries (2-Pack)",
+            "type": "HardGood",
+            "price": 5.99,
+            "upc": "039800013200",
+            "shipping": 0,
+            "description": "Alkaline batteries; 1.5V",
+            "manufacturer": "Energizer",
+            "model": "E90BP-2",
+            "url": "http://www.bestbuy.com/site/energizer-n-cell-e90-batteries-2-pack/333179.p?id=1185268509951&skuId=333179&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/3331/333179_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0208006",
+                    "name": "Specialty Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat248700050021",
+                    "name": "Housewares",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat303600050001",
+                    "name": "Household Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat312300050015",
+                    "name": "Connected Home & Housewares",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 1003085,
+            "name": "Aquarius - Grateful Dead Skull Logo Chunky Magnet - Red/White/Blue",
+            "type": "HardGood",
+            "price": 5.99,
+            "upc": "184709950580",
+            "shipping": 0,
+            "description": "AQUARIUS Grateful Dead Skull Logo Chunky Magnet: Features the iconic Grateful Dead skull logo; magnet; chunky design",
+            "manufacturer": "Aquarius",
+            "model": "95058",
+            "url": "http://www.bestbuy.com/site/aquarius-grateful-dead-skull-logo-chunky-magnet-red-white-blue/1003085.p?id=1219460769143&skuId=1003085&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003085_sa.jpg",
+            "createdAt": "2016-11-17T18:00:31.886Z",
+            "updatedAt": "2016-11-17T18:00:31.886Z",
+            "categories": [
+                {
+                    "id": "pcmcat244200050008",
+                    "name": "TV, Movie & Character Toys",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat252700050006",
+                    "name": "Toys, Games & Drones",
+                    "createdAt": "2016-11-17T17:57:05.600Z",
+                    "updatedAt": "2016-11-17T17:57:05.600Z"
+                },
+                {
+                    "id": "pcmcat287400050019",
+                    "name": "More Pop Culture Merchandise",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 1003232,
+            "name": "Aquarius - Grateful Dead Bear Logo Chunky Magnet - Green/Yellow/Blue/Purple/Red/Orange/Black",
+            "type": "HardGood",
+            "price": 5.99,
+            "upc": "184709950603",
+            "shipping": 0,
+            "description": "AQUARIUS Grateful Dead Bear Logo Chunky Magnet: Tie-dyed Grateful Dead bear logo; chunky design",
+            "manufacturer": "Aquarius",
+            "model": "95060",
+            "url": "http://www.bestbuy.com/site/aquarius-grateful-dead-bear-logo-chunky-magnet-green-yellow-blue-purple-red-orange-black/1003232.p?id=1219460765073&skuId=1003232&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003232_sa.jpg",
+            "createdAt": "2016-11-17T18:00:31.886Z",
+            "updatedAt": "2016-11-17T18:00:31.886Z",
+            "categories": [
+                {
+                    "id": "pcmcat244200050008",
+                    "name": "TV, Movie & Character Toys",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat252700050006",
+                    "name": "Toys, Games & Drones",
+                    "createdAt": "2016-11-17T17:57:05.600Z",
+                    "updatedAt": "2016-11-17T17:57:05.600Z"
+                },
+                {
+                    "id": "pcmcat287400050019",
+                    "name": "More Pop Culture Merchandise",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        }
+    ]
+}

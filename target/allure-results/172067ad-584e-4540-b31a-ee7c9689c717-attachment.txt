@@ -1,0 +1,327 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Allow: GET,POST,PUT,PATCH,DELETE
+Vary: Accept, Accept-Encoding
+Content-Type: application/json; charset=utf-8
+ETag: W/"20c8-4LRdel2t5CGFUybSQA4h7w+46O8"
+Content-Encoding: gzip
+Date: Sun, 04 Oct 2020 13:23:23 GMT
+Connection: keep-alive
+Transfer-Encoding: chunked
+
+{
+    "total": 925,
+    "limit": 10,
+    "skip": 0,
+    "data": [
+        {
+            "id": 150115,
+            "name": "Energizer - MAX Batteries AA (4-Pack)",
+            "type": "HardGood",
+            "price": 4.99,
+            "upc": "039800011329",
+            "shipping": 0,
+            "description": "4-pack AA alkaline batteries; battery tester included",
+            "manufacturer": "Energizer",
+            "model": "E91BP-4",
+            "url": "http://www.bestbuy.com/site/energizer-max-batteries-aa-4-pack/150115.p?id=1051384046217&skuId=150115&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1501/150115_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0208002",
+                    "name": "Alkaline Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat248700050021",
+                    "name": "Housewares",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat303600050001",
+                    "name": "Household Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat312300050015",
+                    "name": "Connected Home & Housewares",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 1053239,
+            "name": "Ener-G Horse Riders - PRE-OWNED - Nintendo DS",
+            "type": "Game",
+            "price": 4.99,
+            "upc": "799007752707",
+            "shipping": 0,
+            "description": "Explore the world with your loyal horse",
+            "manufacturer": "Ubisoft",
+            "model": null,
+            "url": "http://www.bestbuy.com/site/ener-g-horse-riders-pre-owned-nintendo-ds/1053239.p?id=1218215100283&skuId=1053239&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053239_sa.jpg",
+            "createdAt": "2016-11-17T18:02:21.601Z",
+            "updatedAt": "2016-11-17T18:02:21.601Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1053381,
+            "name": "NBA 2K10 - PRE-OWNED - PlayStation 3",
+            "type": "Game",
+            "price": 4.99,
+            "upc": "799007781172",
+            "shipping": 0,
+            "description": "Live out the pro basketball experience with stunning realism",
+            "manufacturer": "2K",
+            "model": null,
+            "url": "http://www.bestbuy.com/site/nba-2k10-pre-owned-playstation-3/1053381.p?id=1218215101897&skuId=1053381&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053381_sa.jpg",
+            "createdAt": "2016-11-17T18:02:21.601Z",
+            "updatedAt": "2016-11-17T18:02:21.601Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1057091,
+            "name": "Isaac Mizrahi New York - Hard Shell Case for Samsung Galaxy S 5 Cell Phones - Pink",
+            "type": "HardGood",
+            "price": 4.99,
+            "upc": "5031300089247",
+            "shipping": 0,
+            "description": "Only at Best Buy\nCompatible with Samsung Galaxy S 5 cell phones; polycarbonate and TPU construction; play-through design",
+            "manufacturer": "Isaac Mizrahi New York",
+            "model": "CO8924",
+            "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-hard-shell-case-for-samsung-galaxy-s-5-cell-phones-pink/1057091.p?id=1219461892690&skuId=1057091&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1057/1057091_sa.jpg",
+            "createdAt": "2016-11-17T18:02:21.601Z",
+            "updatedAt": "2016-11-17T18:02:21.601Z",
+            "categories": [
+                {
+                    "id": "abcat0800000",
+                    "name": "Cell Phones",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0811002",
+                    "name": "Cell Phone Accessories",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "abcat0811006",
+                    "name": "Cell Phone Cases & Clips",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        },
+        {
+            "id": 1066001,
+            "name": "Freedom Wars - PRE-OWNED - PS Vita",
+            "type": "Game",
+            "price": 4.99,
+            "upc": "799007840404",
+            "shipping": 0,
+            "description": "Complete dangerous missions in a dystopian world to earn your freedom",
+            "manufacturer": "Sony",
+            "model": "PREOWNED",
+            "url": "http://www.bestbuy.com/site/freedom-wars-pre-owned-ps-vita/1066001.p?id=1219461502691&skuId=1066001&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1066/1066001_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1088231,
+            "name": "Virtua Tennis 2009 - PRE-OWNED - Xbox 360",
+            "type": "Game",
+            "price": 4.99,
+            "upc": "799007760115",
+            "shipping": 0,
+            "description": "Show you have the skills to ace every match",
+            "manufacturer": "Sega",
+            "model": null,
+            "url": "http://www.bestbuy.com/site/virtua-tennis-2009-pre-owned-xbox-360/1088231.p?id=1218219331804&skuId=1088231&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1088/1088231_sa.jpg",
+            "createdAt": "2016-11-17T17:58:46.655Z",
+            "updatedAt": "2016-11-17T17:58:46.655Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1088259,
+            "name": "Bakugan - PRE-OWNED - PlayStation 3",
+            "type": "Game",
+            "price": 4.99,
+            "upc": "799007760122",
+            "shipping": 0,
+            "description": "Discover the excitement of Bakugan in a new way",
+            "manufacturer": "Activision",
+            "model": null,
+            "url": "http://www.bestbuy.com/site/bakugan-pre-owned-playstation-3/1088259.p?id=1218219329100&skuId=1088259&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1088/1088259_sa.jpg",
+            "createdAt": "2016-11-17T17:58:46.655Z",
+            "updatedAt": "2016-11-17T17:58:46.655Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1088268,
+            "name": "Dark Void - PRE-OWNED - Xbox 360",
+            "type": "Game",
+            "price": 4.99,
+            "upc": "799007760139",
+            "shipping": 0,
+            "description": "The fate of the entire planet is on the line",
+            "manufacturer": "Capcom",
+            "model": null,
+            "url": "http://www.bestbuy.com/site/dark-void-pre-owned-xbox-360/1088268.p?id=1218219332217&skuId=1088268&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1088/1088268_sa.jpg",
+            "createdAt": "2016-11-17T17:58:46.655Z",
+            "updatedAt": "2016-11-17T17:58:46.655Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1088374,
+            "name": "Band Hero - PRE-OWNED - PlayStation 3",
+            "type": "Game",
+            "price": 1.99,
+            "upc": "799007760207",
+            "shipping": 0,
+            "description": "Ascend to music stardom in a new way",
+            "manufacturer": "Activision",
+            "model": null,
+            "url": "http://www.bestbuy.com/site/band-hero-pre-owned-playstation-3/1088374.p?id=1218219328444&skuId=1088374&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1088/1088374_sa.jpg",
+            "createdAt": "2016-11-17T17:58:46.655Z",
+            "updatedAt": "2016-11-17T17:58:46.655Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        },
+        {
+            "id": 1091131,
+            "name": "Jam Sessions 2 - PRE-OWNED - Nintendo DS",
+            "type": "Game",
+            "price": 4.99,
+            "upc": "799007760368",
+            "shipping": 0,
+            "description": "Turn your DS into a virtual guitar",
+            "manufacturer": "Ubisoft",
+            "model": null,
+            "url": "http://www.bestbuy.com/site/jam-sessions-2-pre-owned-nintendo-ds/1091131.p?id=1218219613283&skuId=1091131&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1091/1091131_sa.jpg",
+            "createdAt": "2016-11-17T17:58:46.655Z",
+            "updatedAt": "2016-11-17T17:58:46.655Z",
+            "categories": [
+                {
+                    "id": "abcat0700000",
+                    "name": "Video Games",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat232900050017",
+                    "name": "Pre-Owned Games",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                }
+            ]
+        }
+    ]
+}
