@@ -10,6 +10,6 @@ You will see the build is failed. It's ok. One test is incorrect. I did it for d
 4. If you want to see reports you should run the next script in the terminal: mvn io.qameta.allure:allure-maven:serve
 The report should generate and open in the browser automatically.
 
-==========
+
 I used rest-assured library for the API testing and Allure library for the Reporting. 
 Several tests use parametrization. 
